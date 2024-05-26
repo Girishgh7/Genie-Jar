@@ -1,0 +1,5 @@
+streamlit: This library is essential for building the Streamlit web app interface. You can install it using pip install streamlit.
+dotenv: This library helps manage environment variables securely. Install it with pip install python-dotenv.
+pickle: This library is used for data serialization and deserialization, allowing you to save and load processed text data. Install it using pip install pickle.
+PyPDF2: This library helps extract text from PDF documents. Install it with pip install PyPDF2.
+streamlit_extras: This library provides additional components for enhancing the Streamlit app's layout and functionality. You can install it using pip install streamlit-extras.
